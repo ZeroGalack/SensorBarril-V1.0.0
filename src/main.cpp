@@ -10,10 +10,10 @@ Sim800L GSM;
 WriteLogs Logs(10);
 
 
-const String apn = "claro.com.br ";                            // APN 
-const String apn_u = "claro";                                  // APN-Username 
-const String apn_p = "claro";                                  // APN-Password 
-const String url = "http://barril.gensokyo.shop/dbpost.php";   // Server URL
+const String apn =   "*********";           // APN 
+const String apn_u = "*********";           // APN-Username 
+const String apn_p = "*********";           // APN-Password 
+const String url =   "*********";           // Server URL
 
 
 void setup() {
