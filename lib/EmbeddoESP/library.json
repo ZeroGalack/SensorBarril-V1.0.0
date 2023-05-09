@@ -1,0 +1,29 @@
+{
+  "name": "EmbeddoESP",
+  "version": "0.0.3",
+  "description": "Biblioteca padrão Embeddo para projetos com ESP32",
+  "keywords": "Embeddo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Embeddo/EmbeddoESP.git"
+  },
+  "authors": [
+    {
+      "name": "Julio César Caldeira",
+      "email": "julio@embeddo.io",
+      "maintaner": true
+    },
+    {
+      "name": "Maria Beatriz Florêncio",
+      "email": "beatriz@embeddo.io"
+    },
+    {
+      "name": "Gustavo Furtado",
+      "email": "gustavo@embeddo.io"
+    }
+  ],
+  "license": "Private",
+  "homepage": "https://embeddo.io",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
