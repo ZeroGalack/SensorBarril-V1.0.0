@@ -1,4 +1,7 @@
 # Projeto de Desenvolvimento: Sensor de Rastreamento de Barris
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ZeroGalack/SensorBarril-V1.0.0/blob/main/sensor.png" alt="Imagem 1" width="45%">
+</div>
 
 ---
 
